@@ -1,0 +1,4 @@
+
+ function verification(){
+     alert("Bonjour")
+ }
