@@ -5,7 +5,7 @@
 
 
  document.addEventListener('keydown', function(event) {
-     result.innerHTML = "Tu as enfoncé la touche: " 
+     result.innerHTML = "Tu as enfoncé la touche: "+ event.key + " (keyup)"; 
  });
 
 
